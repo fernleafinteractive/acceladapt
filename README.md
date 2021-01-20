@@ -1,5 +1,5 @@
-![AccelAdapt](https://acceladapt.com/images/logo.png)
--------
+<img src="https://acceladapt.com/images/logo.png" width="240" alt="AccelAdapt"/>
+
 AccelAdapt is a living community resilience assessment product by Fernleaf
 
 This GitHub repository is a place for you to create public issue reports and communicate with our team.
